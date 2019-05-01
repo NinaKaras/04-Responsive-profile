@@ -1,5 +1,5 @@
 <style>
-@import url('https://fonts.googleapis.com/css?family=Quicksand|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:500|Raleway');
 
 
 h1, h2 {
@@ -11,6 +11,7 @@ h1 {
   font-size: 30px;
   color: #78586F;
   margin: 0px;
+  font-weight: 500;
 }
 
 h2 {
@@ -100,7 +101,8 @@ div {
   color: white;
   padding: 10px 15px;
   border-radius: 4px;
-  margin: 20px 0;
+  margin: 0px 0;
+  display: inline-block;
 }
 
 .icons-inline {
